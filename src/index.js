@@ -6,9 +6,7 @@ import reportWebVitals from "./reportWebVitals";
 
 ReactDOM.render(
   <React.StrictMode>
-    {/* practice/conflict3 */}
     <App />
-    {/* practice/conflict3 */}
   </React.StrictMode>,
   document.getElementById("root")
 );
